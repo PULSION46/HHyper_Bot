@@ -1,0 +1,42 @@
+{
+  "name": "cryptonix-x-opensource",
+  "version": "1.0.0",
+  "description": "Open Source version of Cryptonix X",
+  "main": "index.js",
+  "scripts": {
+    "test": "/help"
+  },
+  "author": "HarutoHiroki",
+  "license": "MIT",
+  "dependencies": {
+    "alexflipnote.js": "^2.2.1",
+    "axios": "^0.18.0",
+    "chalk": "^2.4.2",
+    "child_process": "^1.0.2",
+    "discord.js": "^12.2.0",
+    "google": "^2.1.0",
+    "http": "0.0.0",
+    "integer": "^3.0.1",
+    "moment": "^2.25.3",
+    "mongodb-core": "^3.2.7",
+    "mongoose": "^5.9.12",
+    "mongoose-long": "^0.3.0",
+    "ms": "^2.1.1",
+    "node-ddg": "^2.2.1",
+    "node-opus": "^0.3.1",
+    "node-superfetch": "^0.1.10",
+    "opusscript": "0.0.6",
+    "os-utils": "0.0.14",
+    "parse-ms": "^2.1.0",
+    "random-puppy": "^1.1.0",
+    "remove-markdown": "^0.3.0",
+    "request": "^2.88.0",
+    "return-deep-diff": "^0.3.0",
+    "snekfetch": "^4.0.4",
+    "superagent": "^4.1.0",
+    "urban": "^0.3.2"
+  },
+  "engines": {
+    "node": "12.16.0"
+  }
+}
